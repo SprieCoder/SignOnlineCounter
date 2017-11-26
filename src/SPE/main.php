@@ -12,6 +12,6 @@ class main extends PluginBase{
 	
 	public function onDisable(){
 		$this->getLogger()->info("§c-");
-		//Bald.....
+		//Bald..
 	}
 }
